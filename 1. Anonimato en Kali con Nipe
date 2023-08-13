@@ -24,7 +24,7 @@ Paso 4: Ejecutar el siguiente comando para instalar las bibliotecas y dependenci
 Paso 5: Usar el siguiente comando para instalar las dependencias de Nipe o un script de Perl.
         sudo perl nipe.pl install
 
-USO:
+USO (Ejecutar desde /home/kali/nipe/nipe):
 ---
 
 Paso 1: Verificar el estado de nipe, escriba el siguiente comando. Y verás que el estado actual es deshabilitado.
